@@ -1,5 +1,6 @@
-// Classe Principal iPhone
+package dio;
 
+// Classe Principal iPhone
 public class iPhone {
 
     private String modelo;

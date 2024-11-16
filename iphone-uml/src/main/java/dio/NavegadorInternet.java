@@ -1,5 +1,6 @@
-// Interface para o Navegador de Internet
+package dio;
 
+// Interface para o Navegador de Internet
 interface NavegadorInternet {
 
     void exibirPagina(String url);

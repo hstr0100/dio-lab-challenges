@@ -12,6 +12,8 @@
 
     <modules>
         <module>banco-digital</module>
+        <module>iphone-uml</module>
+        <module>contador</module>
     </modules>
 
     <dependencies>

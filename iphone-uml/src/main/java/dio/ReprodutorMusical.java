@@ -1,5 +1,6 @@
-// Interface para o Reprodutor Musical
+package dio;
 
+// Interface para o Reprodutor Musical
 interface ReprodutorMusical {
 
     void tocar();
