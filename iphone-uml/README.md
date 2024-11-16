@@ -1,9 +1,9 @@
-### Implementation of the DIO UML challenge
+## Implementation of the DIO UML challenge
 
-## Reference Project
+### Reference Project
 [Digital Innovation One (Desafios POO)](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo)
 
-## UML Class Diagram
+### UML Class Diagram
 ```mermaid
 classDiagram
     class iPhone {
