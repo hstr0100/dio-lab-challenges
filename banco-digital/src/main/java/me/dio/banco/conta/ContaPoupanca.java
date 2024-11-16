@@ -13,7 +13,7 @@ public class ContaPoupanca extends Conta {
     public ContaPoupanca(Cliente cliente) {
         super(cliente);
     }
-    
+
     @Override
     public void sacar(BigDecimal valor) {
         // Limite apenas para contas poupanca
@@ -25,7 +25,6 @@ public class ContaPoupanca extends Conta {
         super.sacar(valor);
         log.info("Saque realizado com sucesso. Valor: {}. Saldo atual: {}", valor, saldo);
     }
-
 
     @Override
     public void imprimirExtrato() {

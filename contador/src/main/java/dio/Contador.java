@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 // hstr0100 is a little over-qualified for this.
 public class Contador {
+
     public static void main(String[] args) {
         Scanner terminal = new Scanner(System.in);
 
@@ -36,4 +37,3 @@ public class Contador {
         }
     }
 }
- 

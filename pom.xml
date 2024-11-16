@@ -12,6 +12,7 @@
 
     <modules>
         <module>banco-digital</module>
+        <module>conta-banco</module>
         <module>iphone-uml</module>
         <module>contador</module>
     </modules>
